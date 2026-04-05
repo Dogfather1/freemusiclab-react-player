@@ -1,6 +1,6 @@
 # FreeMusicLab React Player
 
-A zero-config React audio player for [FreeMusicLab.ai](https://freemusiclab.ai) — the free AI music library for creators.
+A zero-config React audio player for [FreeMusicLab.ai](https://freemusiclab.ai) — free AI music generated with Google Lyria.
 
 ## Features
 
@@ -8,7 +8,6 @@ A zero-config React audio player for [FreeMusicLab.ai](https://freemusiclab.ai) 
 - ▶️ Built-in audio controls, playlist navigation
 - 🎨 Tailwind-friendly, minimal CSS
 - 📦 Tree-shakeable, TypeScript ready
-- 🔌 Uses the free [FreeMusicLab API](https://freemusiclab.ai/docs)
 
 ## Install
 
@@ -30,16 +29,17 @@ export default function App() {
 
 `lofi`, `cinematic`, `cafe`, `jazz`, `cyberpunk`, `ambient`, `study`, `sleep`, `focus`
 
-See the full [FreeMusicLab.ai browse page](https://freemusiclab.ai/browse) for the complete list.
+See the full [FreeMusicLab.ai browse page](https://freemusiclab.ai/browse).
 
 ## About FreeMusicLab.ai
 
-- 🎼 [2,000+ free AI-generated tracks](https://freemusiclab.ai/browse)
+- 🎼 [2,000+ free AI-generated tracks](https://freemusiclab.ai/browse) — generated with [Google Lyria](https://deepmind.google/technologies/lyria/)
 - ⬆️ [Upload your own AI music](https://freemusiclab.ai/upload)
 - 📖 [Blog with free music guides](https://freemusiclab.ai/blog)
 - 🔌 [Free developer API](https://freemusiclab.ai/docs)
+- 📄 [License details](https://freemusiclab.ai/license) — commercial use permitted via Google's Generative AI Terms
 
-All tracks are royalty-free and commercial use is allowed.
+All first-party tracks are royalty-free and carry SynthID watermarks for AI-content disclosure.
 
 ## License
 
